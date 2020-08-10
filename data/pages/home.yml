@@ -1,8 +1,9 @@
 hero:
   image: /images/uploads/homepage-hero.jpg
-  title: Great coffee with a conscience
+  title: Fintech Book Club
 story: >-
-  Kaldi is the coffee store for everyone who believes that great coffee
-  shouldn't just taste good, it should do good too. We source all of our beans
-  directly from small scale sustainable farmers and make sure part of the
-  profits are reinvested in their communities.
+  Fintech is kinda a hard industry to break into. Most people working in fintech come from a
+  consumer tech background, and are new to integrating with legacy financial 
+  infrastruction, regulations, and how money moves (or doesn't). 
+  I started this book club for people who have jumped into the deep end and
+  want to learn more about the finance part of fintech.
