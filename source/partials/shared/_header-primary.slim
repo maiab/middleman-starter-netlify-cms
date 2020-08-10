@@ -1,7 +1,6 @@
 header.header-primary
   .logo
     = link_to '/'
-      = image_tag 'logo.svg', alt: 'Kaldi'
 
   a.nav-button href='#'
     = image_tag 'nav-open.svg', class: 'open'
@@ -11,5 +10,5 @@ header.header-primary
     ul
       - data.settings.navigation.nav_items.each do | nav_item |
         li
-          = nav_link nav_item.label, nav_item.path
+          = nav_link nav_item.label, nav_item.path, nav_item.options
 
