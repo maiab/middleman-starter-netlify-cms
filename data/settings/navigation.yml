@@ -1,4 +1,4 @@
 nav_items: 
   - {label: 'Home', path: '/'}
-  - {label: 'Apply', path: 'https://form.typeform.com/to/d7IyPE8y' }
+  - {label: 'Apply', path: 'apply' }
 
