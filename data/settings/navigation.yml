@@ -1,4 +1,4 @@
 nav_items: 
   - {label: 'Home', path: '/'}
-  - {label: 'Apply', path: 'apply' }
+  - {label: 'Apply', path: '#apply' }
 
