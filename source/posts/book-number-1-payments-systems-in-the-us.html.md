@@ -3,7 +3,7 @@ title: "Book Number 1: Payments Systems in the US"
 date: 2020-08-19T05:16:17.620Z
 description: We're launching Fintech Book Club with /the/ canonical text on
   payment systems and how they work.
-image: /images/uploads/news_item-02.jpg
+image: /images/uploads/51-hhgluhgl._sx382_bo1-204-203-200_.jpg
 ---
 The first book we'll read is [Payments Systems in the US: A Guide For the Payments Professional](https://amzn.to/2Df5aWJ) (affectionately referred to the Glenbrook book) by Carol Cove Benson, Scott Lofesness, and Russ Jones.
 
