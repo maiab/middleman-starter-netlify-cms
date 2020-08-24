@@ -27,5 +27,5 @@ section.homepage-news.news
     h2
       | Recaps
     .news-items
-      - blog.articles.first(1).each do | article |
+      - blog.articles.first(2).each do | article |
         = partial 'partials/news/news_item', locals: {article: article}
