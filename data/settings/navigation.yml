@@ -1,5 +1,6 @@
 nav_items: 
   - {label: 'Home', path: '/'}
   - {label: 'Recaps', path: '/news' }
+  - {label: 'Quora Space', path: 'https://www.quora.com/q/clxsdjxptsyjwdir' }
   - {label: 'Apply', path: '/apply' }
 
