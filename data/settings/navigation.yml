@@ -1,5 +1,5 @@
 nav_items: 
   - {label: 'Home', path: '/'}
-  - {label: 'Posts', path: '/news' }
-  - {label: 'Apply', path: '/#apply' }
+  - {label: 'Recaps', path: '/news' }
+  - {label: 'Apply', path: '/apply' }
 
