@@ -3,4 +3,23 @@ section.homepage-news.news
     h2
       | Apply
     .netlify-form
-      = partial 'partials/application_form'
+      form name="application" method="POST" data-netlify="true"
+        p
+          label
+            Your Name:
+            input type="text" name="name"   
+        p
+          label
+          Your Email:
+          input type="email" name="email"
+        p
+           label
+           What company do you work for?
+           input type="text" name="company"
+        p
+          label
+            Notes:
+            textarea name="notes"
+        p
+          button type="submit"
+            Send
