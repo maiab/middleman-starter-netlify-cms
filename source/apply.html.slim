@@ -2,24 +2,26 @@ section.homepage-news.news
   .container
     h2
       | Apply
+    h3
+      | New members are paused for the moment, but please submit your application below and you'll receive an email when we have opened back up!
     .netlify-form
       form name="application" method="POST" data-netlify="true"
         p
-          label
+          label style="font-weight:bold;"
             | Your Name:
-            input type="text" name="name"   
+            input type="text" name="name" style="display:block;"   
         p
-          label
+          label style="font-weight:bold;"
             | Your Email:
-            input type="email" name="email"
+            input type="email" name="email" style="display:block;" 
         p
-           label 
+           label style="font-weight:bold;"
              | What company do you work for?
-             input type="text" name="company"
+             input type="text" name="company" style="display:block;" 
         p
-          label
+          label style="font-weight:bold;"
             | Notes:
-            textarea name="notes"
+            textarea name="notes" style="display:block;" 
         p
           button type="submit"
             | Send
