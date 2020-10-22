@@ -1,8 +1,10 @@
 .hero {
   position: relative;
-  width: 100%;
+  width: 65%;
+  background-size: 40%
   height: 0;
-  padding-bottom: 42.1875%;
+  padding-bottom: 31%;
+  margin: 0 auto;
   background-repeat: no-repeat;
   background-position: center right;
   border-bottom: 1px solid #002642;
@@ -14,13 +16,13 @@
     @extend %column;
     @extend %col-xs-8;
     margin: 0;
-    padding-top: 20%;
+    padding-top: 13%;
 
     @media screen and (max-width: $screen-md-max){
-      padding-top: 15%;
+      padding-top: 10%;
     }
     @media screen and (max-width: $screen-xs-max){
-      padding-top: 10%;
+      padding-top: 5%;
     }
   }
   @media screen and (max-width: 400px){
