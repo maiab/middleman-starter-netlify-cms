@@ -2,7 +2,7 @@
 # require "uglifier"
 
 ready do
-  redirect "hello.html", to: "http://example.com"
+  redirect "paypal.html", to: "https://superstore.wnd.com/the-paypal-wars-e-book/"
 end
 
 # Activate and configure extensions
