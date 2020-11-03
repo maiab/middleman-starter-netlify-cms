@@ -1,10 +1,9 @@
 #Bootstrap is used to style bits of the demo. Remove it from the config, gemfile and stylesheets to stop using bootstrap
 require "uglifier"
 
-#redirects
-redirect "hello.html", to: "http://example.com"
-# redirect "/hello/", to: "/news"
-# redirect "/products", to: "https://superstore.wnd.com/the-paypal-wars-e-book/"
+ready do
+  redirect "hello.html", to: "http://example.com"
+end
 
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
