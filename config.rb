@@ -71,7 +71,8 @@ helpers do
 end
 
 #redirects
-redirect "/hello/", to: "/news"
+redirect "hello.html", to: "http://example.com"
+# redirect "/hello/", to: "/news"
 # redirect "/products", to: "https://superstore.wnd.com/the-paypal-wars-e-book/"
 
 # Build-specific configuration
