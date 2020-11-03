@@ -10,6 +10,9 @@ Slim::Engine.set_options shortcut: {
   '#' => { tag: 'div', attr: 'id' }, '.' => { tag: 'div', attr: 'class' }
 }
 
+#redirects
+redirect "/paypal", to: "https://superstore.wnd.com/the-paypal-wars-e-book/"
+
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
