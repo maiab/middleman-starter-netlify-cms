@@ -71,7 +71,7 @@ helpers do
 end
 
 #redirects
-# redirect "/hello/", to: "/new"
+redirect "/hello/", to: "/news"
 # redirect "/products", to: "https://superstore.wnd.com/the-paypal-wars-e-book/"
 
 # Build-specific configuration
@@ -82,7 +82,8 @@ configure :build do
   activate :minify_css
 
   # Minify Javascript on build
-  activate :minify_javascript, ignore: "**/admin/**", compressor: ::Uglifier.new(mangle: true, compress: { drop_console: true }, output: {comments: :none})
+  activate :minify_javascript, ignore: "**/admin/**", compressor: ::Uglifier.
+    (mangle: true, compress: { drop_console: true }, output: {comments: :none})
 
   # Use Gzip
   activate :gzip
