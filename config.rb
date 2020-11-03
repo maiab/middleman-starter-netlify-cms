@@ -11,7 +11,7 @@ Slim::Engine.set_options shortcut: {
 }
 
 #redirects
-redirect "/paypal.html", to: "https://superstore.wnd.com/the-paypal-wars-e-book/"
+redirect "/products.html", to: "https://superstore.wnd.com/the-paypal-wars-e-book/"
 
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
