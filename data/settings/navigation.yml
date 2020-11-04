@@ -1,5 +1,6 @@
 nav_items: 
   - {label: 'Home', path: '/'}
-  - {label: 'Announcements', path: '/news' }
+  - {label: 'News', path: '/news' }
+  - {label: 'Videos', path: 'https://www.youtube.com/playlist?list=PLfW78ifWEFnbdy1QDNPMUKc65IvwNC-bp' }
   - {label: 'Apply', path: '/apply' }
 
