@@ -8,13 +8,14 @@ Friends --\
 \
 Apologies for last week's last minute ditch -- I was super sick for few days (**how?!** I never leave my house, which is also *on an island).* I did get a COVID-19 test which came back negative 🙈🥴🥳❓\
 \
-Anyway, tomorrow I'll be back and excited to chat about our current book Paypal Wars [[$4 ebook](https://superstore.wnd.com/the-paypal-wars-e-book/)], gossip about the Beam drama [[CNBC article posted by Ben](https://www.cnbc.com/2020/10/28/beam-promised-higher-interest-rates-now-customers-want-their-money-back.html)], or fret about the election \[obviously no pointer needed as we can hardly escape the doomscroll]. See you in discord tomorrow around 5pm PT, you know the drill.\
-\
+Anyway, tomorrow I'll be back and excited to chat about our current book Paypal Wars [[$4 ebook](https://superstore.wnd.com/the-paypal-wars-e-book/)], gossip about the Beam drama [[CNBC article posted by Ben](https://www.cnbc.com/2020/10/28/beam-promised-higher-interest-rates-now-customers-want-their-money-back.html)], or fret about the election \[obviously no pointer needed as we can hardly escape the doomscroll]. See you in discord tomorrow around 5pm PT, you know the drill.
+
 Pumped to announce that I will be doing a **fireside chat with Eric M. Jackson**, the author of Paypal Wars, on TUESDAY November 17 2020 @ 5pm PT. Invite should be on your calendar! Same as the fireside chat with Ahmed Siddiqui, I'll add a zoom link to the calendar invite in advance and record the conversation for Youtube if you can't make it. Please bring questions for the second half.
 
-I've only just started Paypal Wars but **I'm entranced with the book**. It's so cool to hear about the enthusiasm during the dotcom boom *for fintech specifically.* I loved reading about the first fee-free index fund, and how Elon Musk's X.com had ATM withdrawals (were they thinking about the same ATM strategies I am at Chime?)\
-I get chills thinking about these pioneers who are made all the more real by continuing to be big forces in our lives today. It reminds me a little of a time I checked out a book from Wellesley's library for a linguistics class I'd cross-registered in and saw on the checkout card that *my professor* had borrowed that very same book from the library when she was a student 30 years prior 👻✨\
-\
+I've only just started Paypal Wars but **I'm entranced with the book**. It's so cool to hear about the enthusiasm during the dotcom boom *for fintech specifically.* I loved reading about the first fee-free index fund, and how Elon Musk's X.com had ATM withdrawals (were they thinking about the same ATM strategies I am at Chime?)
+
+I get chills thinking about these pioneers who are made all the more real by continuing to be big forces in our lives today. It reminds me a little of a time I checked out a book from Wellesley's library for a linguistics class I'd cross-registered in and saw on the checkout card that *my professor* had borrowed that very same book from the library when she was a student 30 years prior 👻✨
+
 I've never looked into **Paypal's product's origin story** before because I assumed it didn't *have one* - it's just so obvious to send money to other people on the internet.\
 Welp, I was wrong 😖. Paypal started as a secure way to beam encrypted information between Palm Pilots 🤯Payments was a natural application of their technology, and they pivoted from there. From Jackson:
 
@@ -30,7 +31,7 @@ Rough upcoming schedule:
 * week of November 23: No meeting (Thanksgiving)
 * (always 5pm PT / 8pm ET)
 
-**An ask of you**: Y'all nominated One From Many [[Amazon link](https://amzn.to/3oRchHU)] for a potential future Fintech Book Club selection. I'd love to meet Dee Hock, the author and (more notably) the founder of VISA, to see if he'd do a fireside chat with us. Please hit reply if you know him and might be able to introduce me! \
-\
+**An ask of you**: Y'all nominated One From Many [[Amazon link](https://amzn.to/3oRchHU)] for a potential future Fintech Book Club selection. I'd love to meet Dee Hock, the author and (more notably) the founder of VISA, to see if he'd do a fireside chat with us. Please hit reply if you know him and might be able to introduce me! 
+
 💸\
 Maia
