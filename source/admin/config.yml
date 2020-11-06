@@ -21,8 +21,8 @@ collections:
       - {label: Image, name: image, widget: image, required: true}
 
       - {label: Author, name: author, widget: string}
-      - {label: Fireside Chat, name: fireside, widget: url}
-      - {label: Buy, name: buy, widget: url}
+      - {label: Fireside Chat, name: fireside, widget: string}
+      - {label: Buy, name: buy, widget: string}
       - {label: Body, name: body, widget: markdown}
 
 #markdown middleman blog example

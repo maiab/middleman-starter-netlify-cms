@@ -1,13 +1,11 @@
 //link to product by converting the title to a slug
-.product
+.book
   = link_to '/book/' + book.title.parameterize + '/'
     .product-image
       = image_tag book.image
     .product-content
       .title
         h3 = book.title
-      .price
-        p 
-      .weight
+      .author
         p 
           = book.author
