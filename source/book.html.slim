@@ -1,0 +1,9 @@
+.product-detail
+  .image style=background_image(image_path(book.image))
+  .content
+    .meta
+      h1 = book.title
+
+
+    .body
+      = markdown book.body
