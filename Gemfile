@@ -6,7 +6,7 @@ gem 'middleman-blog'
 gem 'middleman-livereload'
 
 gem 'execjs'
-gem 'therubyracer', :platforms => :ruby
+gem 'mini_racer', :platforms => :ruby
 
 
 
