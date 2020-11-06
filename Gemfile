@@ -5,6 +5,11 @@ gem 'middleman-autoprefixer'
 gem 'middleman-blog'
 gem 'middleman-livereload'
 
+gem 'execjs'
+gem 'therubyracer', :platforms => :ruby
+
+
+
 gem 'slim'
 
 gem 'tzinfo-data', platforms: [:mswin, :x64_mingw, :mingw, :jruby]
