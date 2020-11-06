@@ -46,7 +46,7 @@ data.books.each do |_filename, book|
   # product is an array: [filename, {data}]
   proxy "/book/#{book[:title].parameterize}/index.html", "book.html", 
   locals: {book: book}, 
-  layout: 'product-detail',
+  layout: 'book-detail',
   ignore: true
 end
 
