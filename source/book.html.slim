@@ -8,7 +8,7 @@
 
     .body
       = markdown book.body
-      b "Author"
-      book.author
-      b "Buy"
-      = book.buy
+      b Authored By:
+      = book.author
+      a href=book.buy
+        Buy on Amazon
