@@ -19,6 +19,7 @@
 
   img {
     @extend %img-responsive;
+    width: 300px;
   }
 
   .product-image, .product-content {
